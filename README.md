@@ -20,11 +20,19 @@ The tool takes a target hostname/IP address and a starting and ending port as co
 python3 CYBERSHoT_Port_Scanner_v1.0.py <Target> <Start_Port> <End_Port>
 ```
 
+
+### Download
+```bash
+git clone https://github.com/Nikhilpankaj/CYBERSHoT_Port_scanner.git
+```
+
+
 ### Example
 
 ```bash
 python3 CYBERSHoT_Port_Scanner_v1.0.py 192.168.1.1 1 1000
 ```
+
 
 Example output:
 
@@ -36,6 +44,7 @@ Port 22 is open
 Port 80 is open
 Port 443 is open
 ```
+
 
 ### Technology Used
 
