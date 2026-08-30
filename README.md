@@ -1,4 +1,4 @@
-# CYBERSHoT_Port_Scanner_v1.0
+# CYBERSHoT Port Scanner v1.0
 
 **CYBERSHoT Port Scanner** is a lightweight and multithreaded TCP port scanning tool developed in Python for basic network reconnaissance and security testing.
 
@@ -15,19 +15,27 @@ The tool takes a target hostname/IP address and a starting and ending port as co
 * Invalid target and port input handling
 
 ### Usage
+
+```bash
 python3 CYBERSHoT_Port_Scanner_v1.0.py <Target> <Start_Port> <End_Port>
+```
 
 ### Example
+
+```bash
 python3 CYBERSHoT_Port_Scanner_v1.0.py 192.168.1.1 1 1000
+```
 
 Example output:
 
+```text
 ======================================================================
 CYBERSHoT Port Scanner
 ======================================================================
 Port 22 is open
 Port 80 is open
 Port 443 is open
+```
 
 ### Technology Used
 
@@ -41,4 +49,5 @@ Port 443 is open
 CYBERSHoT Port Scanner is intended for **educational purposes, network reconnaissance, and authorized security testing**. Only scan systems and networks for which you have permission.
 
 ### Version
+
 **v1.0**
