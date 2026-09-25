@@ -203,7 +203,7 @@ Done - 12 open port(s) found
 ![CYBERSHoT Help](Screenshots/help.png)
 
 ### Service & Version Detection
-![Service Detection](Screenshots/Service detection.png)
+![Service Detection](Screenshots/Servicedetection.png)
 
 ### Fast Scan
 ![Fast Scan](Screenshots/Fastscan.png)
