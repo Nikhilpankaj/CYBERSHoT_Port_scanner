@@ -235,8 +235,6 @@ CYBERSHoT-Port-Scanner/
 │   ├── help.png
 │   ├── service-detection.png
 │   └── fast-scan.png
-└── results/
-    └── .gitkeep
 ```
 
 ---
