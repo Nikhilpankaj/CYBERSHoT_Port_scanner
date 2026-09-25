@@ -200,18 +200,13 @@ Done - 12 open port(s) found
 ## 📸 Screenshots
 
 ### Help Menu
-
-![CYBERSHoT Help](screenshots/help.png)
+![CYBERSHoT Help](Screenshots/help.png)
 
 ### Service & Version Detection
-
-![CYBERSHoT Service Detection](screenshots/service-detection.png)
+![Service Detection](Screenshots/Service detection.png)
 
 ### Fast Scan
-
-![CYBERSHoT Fast Scan](screenshots/fast-scan.png)
-
----
+![Fast Scan](Screenshots/Fastscan.png)
 
 ## 🧪 Security Use Cases
 
