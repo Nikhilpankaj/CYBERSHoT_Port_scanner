@@ -224,21 +224,6 @@ CYBERSHoT can be used for authorized:
 
 ---
 
-## 📁 Project Structure
-
-```text
-CYBERSHoT-Port-Scanner/
-│
-├── CYBERSHoT_Port_Scanner_v1_0.py
-├── README.md
-├── screenshots/
-│   ├── help.png
-│   ├── service-detection.png
-│   └── fast-scan.png
-```
-
----
-
 ## 🔐 Legal Disclaimer
 
 CYBERSHoT is intended for educational purposes and authorized security testing.
