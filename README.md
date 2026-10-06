@@ -148,7 +148,7 @@ python3 CYBERSHoT_Port_Scanner_v1_0.py -v 192.168.1.10
 
 | Option            | Description                 |
 | ----------------- | --------------------------- |
-| `-h, --help`      | Display help                |
+| `-h, --help`      | Display help for tool               |
 | `-p, --ports`     | Specify ports to scan       |
 | `-F, --fast`      | Scan common ports           |
 | `--top-ports N`   | Scan N common ports         |
